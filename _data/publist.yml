@@ -1,0 +1,172 @@
+- title: "Quantum Simulation of Coherent Hawking-Unruh Radiation"
+  image: SFpub.png
+  description: 
+  authors: Jiazhong Hu, Lei Feng, Zhendong Zhang, Cheng Chin
+  link:
+    url: https://arxiv.org/abs/1807.07504
+    display:  arxiv:1807.07504
+  highlight: 1
+  news2:
+
+- title: "Complex correlations in high harmonic generation of matter-wave jets revealed by pattern recognition"
+  image: SFpub.png
+  description: 
+  authors: Lei Feng, Jiazhong Hu, Logan W. Clark, Cheng Chin
+  link:
+    url: https://arxiv.org/abs/1803.01786
+    display:  arxiv:1803.01786
+  highlight: 1
+  news2:
+
+- title: "Density waves and jet emission asymmetry in Bose Fireworks"
+  image: SFpub.png
+  description: 
+  authors: Han Fu, Lei Feng, Brandon M. Anderson, Logan W. Clark, Jiazhong Hu, Jeffery W. Andrade, Cheng Chin, K. Levin
+  link:
+    url: https://arxiv.org/abs/1807.08781
+    display:  arxiv:1807.08781
+  highlight: 1
+  news2:
+
+- title: "Creation of a Bose-condensed gas of rubidium 87 by laser cooling"
+  image: DomePub.png
+  description: 
+  authors: Jiazhong Hu, Alban Urvoy, Zachary Vendeiro, Valentin Crepel, Wenlan Chen, Vladan Vuletić
+  link:
+    url: http://science.sciencemag.org/content/358/6366/1078
+    display:  Science 358, 1078 (2017)
+  highlight: 1
+  news2:
+
+- title: "Vacuum spin squeezing"
+  image: DomePub.png
+  description: 
+  authors: Jiazhong Hu, Wenlan Chen, Zachary Vendeiro, Alban Urvoy, Boris Braverman and Vladan Vuletić
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.050301
+    display:  Physical Review A 96, 050301(R) (2017)
+  highlight: 0
+  news2:
+
+- title: "Strictly nonclassical behavior of a mesoscopic system"
+  image: DomePub.png
+  description: 
+  authors: Jiazhong Hu, Zachary Vendeiro, Wenlan Chen, Hao Zhang, Robert McConnell, Anders S. Sørensen, Vladan Vuletić
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.030105
+    display:  Physical Review A 95, 030105(R) (2017)
+  highlight: 0
+  news2:
+
+- title: "Coherence Times of Bose-Einstein Condensates beyond the Shot-Noise Limit via Superfluid Shielding"
+  image: DomePub.png
+  description: 
+  authors: William Cody Burton, Colin J. Kennedy, Woo Chang Chung, Samarth Vadia, Wenlan Chen, Wolfgang Ketterle
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.275301
+    display:  Physical Review Letters 117, 275301 (2016)
+  highlight: 0
+  news2:
+
+- title: "Partially nondestructive continuous detection of individual traveling optical photons"
+  image: DomePub.png
+  description: 
+  authors: Mahdi Hosseini, Kristin M Beck, Yiheng Duan, Wenlan Chen, Vladan Vuletić
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.033602
+    display:  Physical Review Letters 116, 033602 (2016)
+  highlight: 1
+  news2:
+
+- title: "Carving complex many-atom entangled states by single-photon detection"
+  image: DomePub.png
+  description: 
+  authors: Wenlan Chen, Jiazhong Hu, Yiheng Duan, Boris Braverman, Hao Zhang, Vladan Vuletić
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.250502
+    display:  Physical Review Letters 115, 250502 (2015)
+  highlight: 1
+  news2:
+
+- title: "Entangled collective-spin states of atomic ensembles under nonuniform atom-light interaction"
+  image: DomePub.png
+  description: 
+  authors: Jiazhong Hu, Wenlan Chen, Zachary Vendeiro, Hao Zhang, Vladan Vuletić
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.063816
+    display:  Physical Review A 92 063816 (2015)
+  highlight: 1
+  news2:
+
+- title: "Entanglement with negative Wigner function of almost 3,000 atoms heralded by one photon"
+  image: DomePub.png
+  description: 
+  authors: Robert McConnell, Hao Zhang, Jiazhong Hu, Senka Ćuk, Vladan Vuletić
+  link:
+    url: https://www.nature.com/articles/nature14293
+    display:  Nature 519, 438 (2015)
+  highlight: 1
+  news2:
+
+- title: "Cross modulation of two laser beams at the individual-photon level"
+  image: DomePub.png
+  description: 
+  authors: Kristin M Beck, Wenlan Chen, Qian Lin, Michael Gullans, Mikhail D Lukin, Vladan Vuletić
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.113603
+    display:  Physical Review Letters 113, 113603 (2014)
+  highlight: 1
+  news2:
+
+- title: "All-optical switch and transistor gated by one stored photon"
+  image: DomePub.png
+  description: 
+  authors: Wenlan Chen, Kristin M Beck, Robert Bücker, Michael Gullans, Mikhail D Lukin, Haruka Tanji-Suzuki, Vladan Vuletić
+  link:
+    url: http://science.sciencemag.org/content/358/6366/1078
+    display:  Science 341, 768 (2013)
+  highlight: 0
+  news2:
+
+- title: "Generating entangled spin states for quantum metrology by single-photon detection"
+  image: DomePub.png
+  description: 
+  authors: Robert McConnell, Hao Zhang, Senka Ćuk, Jiazhong Hu, Monika H Schleier-Smith, Vladan Vuletić
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.88.063802
+    display:  Physical Review A 88, 063802 (2013)
+  highlight: 0
+  news2:
+
+- title: "Efficient tomography of quantum-optical Gaussian processes probed with a few coherent states"
+  image: DomePub.png
+  description: 
+  authors: Xiang-Bin Wang, Zong-Wen Yu, Jia-Zhong Hu, Adam Miranowicz, Franco Nori
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.88.022101
+    display:  Physical Review A 88, 022101 (2013)
+  highlight: 0
+  news2:
+
+- title: "Vacuum-induced transparency"
+  image: DomePub.png
+  description: 
+  authors: Haruka Tanji-Suzuki, Wenlan Chen, Renate Landig, Jonathan Simon, Vladan Vuletić
+  link:
+    url: http://science.sciencemag.org/content/early/2011/08/03/science.1208066
+    display:  Science 333, 1266 (2011)
+  highlight: 0
+  news2:
+
+- title: "Creation of a Bose-condensed gas of rubidium 87 by laser cooling"
+  image: DomePub.png
+  description: 
+  authors: Jiazhong Hu, Alban Urvoy, Zachary Vendeiro, Valentin Crepel, Wenlan Chen, Vladan Vuletić
+  link:
+    url: http://science.sciencemag.org/content/358/6366/1078
+    display:  Science 358, 1078 (2017)
+  highlight: 0
+  news2:
+
+
+
