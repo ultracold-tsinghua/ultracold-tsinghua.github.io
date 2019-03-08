@@ -11,7 +11,7 @@ email: hujiazhong01@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   We are a new center at Tsinghua’s department of physics – the Quantum Simulation Center. We are working on quantum simulations using ultracold atomic platforms, led by Professors Cheng Chin, Wenlan Chen, and Jiazhong Hu. We come from the University of Chicago and Massachusetts Institute of Technology.
 baseurl: ""
-url: "http://ultracold-tsinghua.github.io"
+url: "https://ultracold-tsinghua.github.io"
 
 include:
   - .htaccess
