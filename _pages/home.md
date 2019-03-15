@@ -64,8 +64,5 @@ We have published 2 *Nature*, 4 *Science*, 4 *Nature Physics* and *11 PRL* in th
 
 ## How to join?
 
- Please contact Jiazhong Hu, hujiazhong01@icloud.com or
-
-WeChat: hujiazhong01. Or visit our website http://cwlaser.scripts.mit.edu/quantumsimulation for details.
-
+ Please contact Jiazhong Hu, hujiazhong01@icloud.com or WeChat: hujiazhong01. 
 
