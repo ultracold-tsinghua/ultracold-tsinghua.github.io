@@ -68,9 +68,4 @@ We have published 2 *Nature*, 4 *Science*, 4 *Nature Physics* and *11 PRL* in th
 
 WeChat: hujiazhong01. Or visit our website http://cwlaser.scripts.mit.edu/quantumsimulation for details.
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+
